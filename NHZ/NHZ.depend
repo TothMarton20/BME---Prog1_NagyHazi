@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1701034807 source:g:\#marci\egyetem\prog 1\nhz\nhz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"beolvas.h"
+	"helyek.h"
+	"debugmalloc.h"
+	<stdbool.h>
+	<time.h>
+	<string.h>
+
+1701032400 source:g:\#marci\egyetem\prog 1\nhz\nhz\beolvas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"beolvas.h"
+	"debugmalloc.h"
+
+1699303728 g:\#marci\egyetem\prog 1\nhz\nhz\beolvas.c
+	<stdio.h>
+	<stdlib.h>
+
+1701031401 g:\#marci\egyetem\prog 1\nhz\nhz\beolvas.h
+
+1700934399 g:\#marci\egyetem\prog 1\nhz\nhz\helyek.h
+
+1700934352 source:g:\#marci\egyetem\prog 1\nhz\nhz\helyek.c
+	<stdio.h>
+	<stdlib.h>
+
+1701023872 g:\#marci\egyetem\prog 1\nhz\nhz\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
